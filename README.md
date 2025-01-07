@@ -7,6 +7,7 @@
 
 ## Implemnetación
 Instrucciones sobre cómo ejecutar el proyecto en el sistema local.
+Asegurarse de estar en un entorno Linux, si estas en widows desxragar la distribucion de Linux como Ubuntu.
 
 1. Clona el repositorio:
    ```bash
