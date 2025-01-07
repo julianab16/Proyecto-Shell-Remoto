@@ -1,1 +1,1 @@
-# Proyecto-Shell-Remoto## Autores - **Juliana Melissa Bolaños Araujo** - **Gabriela Guzman Botina** - **Laura Stefania Salazar Blanco**
+# Proyecto-Shell-Remoto## Autores - **Juliana Melissa Bolaños Araujo** - **Gabriela Guzman Botina** - **Laura Stefania Salazar Blanco**## Funcionamiento
