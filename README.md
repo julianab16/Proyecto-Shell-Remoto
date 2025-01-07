@@ -3,12 +3,9 @@
 - **Juliana Melissa Bolaños Araujo** 
 - **Gabriela Guzman Botina** 
 - **Laura Stefania Salazar Blanco**
-## Funcionamiento
 
 ## Implemnetación
-
-Asegúrate de estar trabajando en un entorno Linux. Si estás utilizando Windows, puedes descargar e instalar una distribución de Linux como Ubuntu, ya sea mediante WSL (Windows Subsystem for Linux) o utilizando una máquina virtual.
-
+Asegúrarse de estar trabajando en un entorno Linux. Si se está utilizando Windows, se puede descargar e instalar una distribución de Linux como Ubuntu, ya sea mediante WSL o utilizando una máquina virtual.
 
 Instrucciones sobre cómo ejecutar el proyecto en el sistema local.
 
