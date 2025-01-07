@@ -6,16 +6,19 @@
 ## Funcionamiento
 
 ## Implemnetación
+
+Asegúrate de estar trabajando en un entorno Linux. Si estás utilizando Windows, puedes descargar e instalar una distribución de Linux como Ubuntu, ya sea mediante WSL (Windows Subsystem for Linux) o utilizando una máquina virtual.
+
+
 Instrucciones sobre cómo ejecutar el proyecto en el sistema local.
-Asegurarse de estar en un entorno Linux, si estas en widows desxragar la distribucion de Linux como Ubuntu.
 
 1. Clona el repositorio:
    ```bash
-   git clone
+   git clone https://github.com/julianab16/Proyecto-Shell-Remoto.git
    ```
-2. Navega al directorio del proyecto:
+2. Entrar al directorio del proyecto:
    ```bash
-   cd
+   cd Proyecto-Shell-Remoto
    ```
 3. Ejecute los siguentes comandos:
    
